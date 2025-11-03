@@ -16,3 +16,5 @@ Currently, two official plugins are available:
 
 ## UI 
 
+<img width="1232" height="519" alt="image" src="https://github.com/user-attachments/assets/ca14a6a6-94cf-4e9e-a285-51d218d9b15d" />
+
