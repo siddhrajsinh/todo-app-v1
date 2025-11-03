@@ -4,15 +4,15 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- This project showcase the react learning. here i have just used static UI and makes some component to list out todo list.
+- This project showcases React learning. Here, I have just used static UI and made a component to list out the todo list.
 
 ## React Components
 
-- components added in src/components directory.
-- The below component i have created
+- components added in the  src/components directory.
+- The component below I have created
 1. AddTodo --> It has a UI input for date and text.
 2. AppName --> Showcase dynamic Todo header
-3. TodoItem --> It holds the list of todo items i have. in this component the item passed as dynamically.
+3. TodoItem --> It holds the list of todo items I have. In this component, the item is passed dynamically.
 
 ## UI 
 
