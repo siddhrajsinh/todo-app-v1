@@ -1,0 +1,33 @@
+h1 {
+  font-weight: 700;
+  font-size: 3rem; 
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 90%;
+  padding: 8px;
+  font-size: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  float: left;
+}
+
+.item-containers {
+  text-align: left;
+}
+.my-row {
+  margin: 5px;
+  padding: 5px;
+  align-items: center;
+  align-content: center;
+}
+
+.my-button {
+  width: 80px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  float: left;
+}
